@@ -6,5 +6,6 @@ I'm
 - 🌱 I’m currently learning react js
 - 📫 How to reach me:
 		
-	LinkedIn : [Rishav Jaiswal](https://www.linkedin.com/in/rishav-jaiswal-28976b17b/)
-	Email : rishav.rj41@gmail.com
+		LinkedIn : [Rishav Jaiswal](https://www.linkedin.com/in/rishav-jaiswal-28976b17b/)
+	
+		Email : rishav.rj41@gmail.com
