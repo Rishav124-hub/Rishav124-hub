@@ -1,6 +1,6 @@
 ### Hi 👋
 I'm
-### Rishav Jaiswal
+# Rishav Jaiswal
 
 - 🔭  I’m currently working on projects [Phone Directory](https://github.com/Rishav124-hub/phonedirectory) and [Calculator](https://github.com/Rishav124-hub/Calculator)
 - 🌱 I’m currently learning react js
